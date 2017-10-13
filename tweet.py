@@ -18,4 +18,4 @@ line = model.make_short_sentence(200)
 
 api.update_status(line)
 print("Tweet Made: ",line)
-time.sleep(900)#Tweet every 15 minutes
+time.sleep(9000)#Tweet every 15 minutes
