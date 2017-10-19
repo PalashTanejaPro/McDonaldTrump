@@ -1,6 +1,6 @@
 import tweepy, time, sys
 import markovify
-
+#remove these keys, preferably putting them on a secured server only
  
 #enter the corresponding information from your Twitter application:
 CONSUMER_KEY = '718SuvNagyr8ssNhK2UVNuDFX'#keep the quotes, replace this with your consumer key
